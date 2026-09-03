@@ -1,1 +1,51 @@
-.metadata/
+# Quartus generated directories
+/db/
+/incremental_db/
+/output_files/
+/simulation/
+/greybox_tmp/
+/qdb/
+/fit/
+/workspace/
+
+# Quartus generated files
+*.rpt
+*.summary
+*.smsg
+*.chg
+*.eqn
+*.pin
+*.sof
+*.pof
+*.jic
+*.rbf
+*.cdf
+*.done
+*.qws
+*.bak
+*.orig
+
+# Compilation / temporary files
+*.log
+*.tmp
+*.temp
+*.cache
+*.lock
+
+# Simulation
+*.wlf
+*.vcd
+*.vwf
+*.do
+transcript
+vsim.wlf
+work/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
